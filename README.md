@@ -13,9 +13,15 @@ As a Data Economics graduate with a strong foundation in informatics and data-dr
 
 🧠 Skills
 
-- ✅ **Risk Analysis & Threat Identification** – [Annual InfoSec Cycle at Swedac]
-- ✅ **Information Asset Mapping** – [CANEA ONE usage at Swedac]
-- ✅ **ISO Compliance Research** – [Compared ISO/IEC 27002 versions + ISO/IEC 42001]
+- ✅ **Risk Analysis & Threat Identification** – Developed an InfoSec cycle at Swedac
+- ✅ **Information Asset Classification** – Conducted asset mapping aligned with ISO/IEC 27001
+- ✅ **Security Frameworks** – Practical application of ISO/IEC 27001, 27002, and awareness of NIS2
+- ✅ **Regulatory Compliance** – Familiar with GDPR and its role in public sector data handling
+- ✅ **Data Handling & Analysis** – Hands-on experience with MySQL, Microsoft 365 & GARP ERP system
+- ✅ **Programming & System Development** – Experience with Python, C#, HTML/CSS, JavaScript
+- ✅ **System Architecture & Project Management** – Studied .NET-based development, agile workflows
+- ✅ **Quick Learner & Problem Solver** – Demonstrated during security-focused internship and tech projects
+- ✅ **Teamwork & Communication** – Gained through logistics, customer service, and cross-functional roles
 
 
 ---
